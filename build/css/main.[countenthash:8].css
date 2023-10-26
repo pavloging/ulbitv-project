@@ -1,0 +1,12 @@
+/*!**********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Counter.scss ***!
+  \**********************************************************************************************************************/
+h1 {
+  color: blue;
+}
+
+button {
+  padding: 20px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL21haW4uW2NvdW50ZW50aGFzaDo4XS5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7RUFDSTtBQUNKOztBQUNBO0VBQ0k7QUFFSixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vd2VicGFjay10cy8uL3NyYy9jb21wb25lbnRzL0NvdW50ZXIuc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyJoMSB7XG4gICAgY29sb3I6IGJsdWU7XG59XG5idXR0b24ge1xuICAgIHBhZGRpbmc6IDIwcHg7XG59Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
